@@ -6,7 +6,7 @@
   building custom frontend websites and a custom proprietary CMS with node/react/aws
 
 🌱 __learning:__
-  rust, deno, vue, podman
+  rust, deno, vue, podman, nomad
 
 👯 __looking to collaborate with:__ 
   more javascript/typescript and rust projects
